@@ -1,0 +1,9 @@
+{
+  "name": "Renato Barros Curriculum Web",
+  "short_name": "Renato Barros CV",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#06101e",
+  "theme_color": "#06101e",
+  "icons": []
+}
